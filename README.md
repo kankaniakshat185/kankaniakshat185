@@ -1,13 +1,14 @@
 ## 👋 About Me
 
-I'm a Computer Science (AI) undergraduate focused on building **scalable full-stack systems** and **end-to-end machine learning pipelines**.
+Computer Science (AI) undergraduate with experience in designing and deploying **scalable full-stack systems** and **end-to-end machine learning pipelines**.
 
-I combine strong software engineering fundamentals with applied AI to turn messy, real-world data into **production-ready intelligence**.
+Strong grounding in **software engineering principles**, with hands-on experience building **modular RESTful services**, **data-intensive applications**, and **distributed backends**.
 
-- 🧠 **AI/ML Focus**: NLP, Transformers, RAG architectures  
-- ⚙️ **Backend**: FastAPI, REST APIs, distributed systems  
-- 🌐 **Frontend**: Next.js, modern web interfaces  
-- 🗄️ **Data Engineering**: Data cleaning, validation, and pipeline design  
+Focused on **applied machine learning and data engineering**, particularly:
+- Transformer-based NLP systems  
+- Retrieval-Augmented Generation (RAG) pipelines  
+- Automated data validation and preprocessing workflows  
+- Model evaluation and performance diagnostics on real-world datasets  
 
 ---
 
@@ -19,33 +20,37 @@ I combine strong software engineering fundamentals with applied AI to turn messy
 ### 🎨 Frontend
 `Next.js` · `Tailwind CSS`
 
-### ⚙️ Backend & APIs
-`FastAPI` · REST Architecture
+### ⚙️ Backend & Systems
+`FastAPI` · RESTful API design · Asynchronous processing
 
-### 🗄️ Databases
-`MySQL` · `PostgreSQL`
+### 🗄️ Databases & Storage
+`MySQL` · `PostgreSQL` · Relational schema design · Query optimization
 
-### 📊 Data Science & ML
-`NumPy` · `pandas` · `Matplotlib` · `seaborn` · `scikit-learn`
+### 📊 Machine Learning & Data
+`NumPy` · `pandas` · `Matplotlib` · `seaborn` · `scikit-learn`  
+- Feature engineering  
+- Data analysis  
+- Pipeline construction and evaluation  
 
-### 🧰 Developer Tools
+### 🧰 Developer Tooling
 `Git` · `GitHub` · `VS Code` · `Jupyter` · `Google Colab` · `Postman` · `Power BI` · `Vercel`
 
----
-
-## 🚀 What I Do
-
-- Build **full-stack applications** with clean architecture  
-- Design **ML pipelines** from raw data → deployment  
-- Work on **real-world datasets** with noise, bias, and inconsistencies  
-- Focus on **practical AI systems**, not just models  
 
 ---
 
-## 📌 Current Focus
+## 🚀 Engineering Focus
 
-- 🔍 Advanced NLP & LLM systems  
-- 🧱 Scalable backend architecture  
-- 📈 Data-driven applications with real-world impact  
+- Designing **robust backend architectures** with clear separation of concerns  
+- Building **data pipelines** for ingestion, validation, transformation, and storage  
+- Developing **ML-driven systems** that integrate seamlessly into production workflows  
+- Handling **noisy, incomplete, and inconsistent datasets** through systematic preprocessing strategies  
+
+---
+
+## 📌 Current Work
+
+- Scaling NLP systems using **transformer-based architectures and LLM ensembles**  
+- Exploring **efficient retrieval and ranking strategies** for RAG pipelines  
+- Improving **model reliability and interpretability** in real-world deployments  
 
 ---
