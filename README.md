@@ -43,14 +43,13 @@ Focused on **applied machine learning and data engineering**, particularly:
 - Designing **robust backend architectures** with clear separation of concerns  
 - Building **data pipelines** for ingestion, validation, transformation, and storage  
 - Developing **ML-driven systems** that integrate seamlessly into production workflows  
-- Handling **noisy, incomplete, and inconsistent datasets** through systematic preprocessing strategies  
 
 ---
 
 ## 📌 Current Work
 
 - Scaling NLP systems using **transformer-based architectures and LLM ensembles**  
-- Exploring **efficient retrieval and ranking strategies** for RAG pipelines  
-- Improving **model reliability and interpretability** in real-world deployments  
+- Improving **model reliability and interpretability** in real-world deployments
+- Optimizing backend architectures for scalability, latency, and resource efficiency
 
 ---
