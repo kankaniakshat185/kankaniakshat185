@@ -5,11 +5,11 @@ Computer Science undergraduate specializing in Artificial Intelligence, with a s
 My experience spans full-stack development, backend engineering, and applied machine learning, with a focus on designing reliable systems that combine clean software architecture with practical ML workflows. I enjoy working on projects involving NLP, data-intensive applications, retrieval systems, and AI-powered analytics platforms.
 
 Currently focused on:
-- Transformer-based NLP systems  
-- Retrieval-Augmented Generation (RAG) pipelines  
-- Scalable backend and API architecture  
-- Data engineering and automated ML workflows  
-- Model evaluation, reliability, and interpretability  
+- Scaling NLP systems using transformer-based architectures and LLM ensembles
+- Improving model reliability, interpretability, and evaluation workflows
+- Building production-ready AI applications with efficient backend integration
+- Exploring distributed systems and high-performance backend design
+ 
 
 ---
 
@@ -42,15 +42,6 @@ Currently focused on:
 - Developing ML-powered applications for real-world use cases  
 - Optimizing systems for performance, maintainability, and reliability  
 - Bridging software engineering with applied AI/ML systems  
-
----
-
-# Current Focus
-
-- Scaling NLP systems using transformer-based architectures and LLM ensembles  
-- Improving model reliability, interpretability, and evaluation workflows  
-- Building production-ready AI applications with efficient backend integration  
-- Exploring distributed systems and high-performance backend design  
 
 ---
 
