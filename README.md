@@ -1,55 +1,57 @@
-## 👋 About Me
+# About Me
 
-Computer Science (AI) undergraduate with experience in designing and deploying **scalable full-stack systems** and **end-to-end machine learning pipelines**.
+Computer Science undergraduate specializing in Artificial Intelligence, with a strong interest in building scalable software systems and production-oriented AI applications.
 
-Strong grounding in **software engineering principles**, with hands-on experience building **modular RESTful services**, **data-intensive applications**, and **distributed backends**.
+My experience spans full-stack development, backend engineering, and applied machine learning, with a focus on designing reliable systems that combine clean software architecture with practical ML workflows. I enjoy working on projects involving NLP, data-intensive applications, retrieval systems, and AI-powered analytics platforms.
 
-Focused on **applied machine learning and data engineering**, particularly:
+Currently focused on:
 - Transformer-based NLP systems  
 - Retrieval-Augmented Generation (RAG) pipelines  
-- Automated data validation and preprocessing workflows  
-- Model evaluation and performance diagnostics on real-world datasets  
+- Scalable backend and API architecture  
+- Data engineering and automated ML workflows  
+- Model evaluation, reliability, and interpretability  
 
 ---
 
-## 🛠️ Tech Stack
+# Tech Stack
 
-### 💻 Languages
-`Python` · `C` · `C++` · `TypeScript`
+## Languages
+`Python` · `C` · `C++` · `TypeScript` · `Go`
 
-### 🎨 Frontend
+## Frontend
 `Next.js` · `Tailwind CSS`
 
-### ⚙️ Backend & Systems
-`FastAPI` · RESTful API design · Asynchronous processing
+## Backend & Systems
+`FastAPI` · RESTful APIs · Asynchronous Processing · Modular Backend Design
 
-### 🗄️ Databases & Storage
-`MySQL` · `PostgreSQL` · Relational schema design · Query optimization
+## Databases
+`MySQL` · `PostgreSQL` · Relational Schema Design · Query Optimization
 
-### 📊 Machine Learning & Data
-`NumPy` · `pandas` · `Matplotlib` · `seaborn` · `scikit-learn`  
-- Feature engineering  
-- Data analysis  
-- Pipeline construction and evaluation  
+## Machine Learning & Data
+`NumPy` · `pandas` · `Matplotlib` · `scikit-learn` · `PyTorch` · `TensorFlow` · `Keras`
 
-### 🧰 Developer Tooling
-`Git` · `GitHub` · `VS Code` · `Jupyter` · `Google Colab` · `Postman` · `Power BI` · `Vercel`
-
+## Developer Tools
+`Git` · `GitHub` · `VS Code` · `Jupyter` · `Google Colab` · `Postman` · `Power BI` · `Vercel` · `Streamlit`
 
 ---
 
-## 🚀 Engineering Focus
+# Engineering Interests
 
-- Designing **robust backend architectures** with clear separation of concerns  
-- Building **data pipelines** for ingestion, validation, transformation, and storage  
-- Developing **ML-driven systems** that integrate seamlessly into production workflows  
+- Designing scalable backend architectures with clean separation of concerns  
+- Building efficient data ingestion, validation, and transformation pipelines  
+- Developing ML-powered applications for real-world use cases  
+- Optimizing systems for performance, maintainability, and reliability  
+- Bridging software engineering with applied AI/ML systems  
+
+---
+
+# Current Focus
+
+- Scaling NLP systems using transformer-based architectures and LLM ensembles  
+- Improving model reliability, interpretability, and evaluation workflows  
+- Building production-ready AI applications with efficient backend integration  
+- Exploring distributed systems and high-performance backend design  
 
 ---
 
-## 📌 Current Work
-
-- Scaling NLP systems using **transformer-based architectures and LLM ensembles**  
-- Improving **model reliability and interpretability** in real-world deployments
-- Optimizing backend architectures for scalability, latency, and resource efficiency
-
----
+Continuously learning through hands-on projects, system design exploration, research-oriented implementation, and real-world AI experimentation.
