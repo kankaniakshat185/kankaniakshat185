@@ -16,7 +16,7 @@ Currently focused on:
 # Tech Stack
 
 ## Languages
-`Python` · `C` · `C++` · `TypeScript` · `Go`
+`Python` · `C` · `C++` · `Go`
 
 ## Backend & Systems
 `FastAPI` · RESTful APIs · Asynchronous Processing · Modular Backend Design
@@ -25,7 +25,7 @@ Currently focused on:
 `MySQL` · `PostgreSQL` · Relational Schema Design · Query Optimization
 
 ## Machine Learning & Data
-`NumPy` · `pandas` · `Matplotlib` · `scikit-learn` · `PyTorch` · `TensorFlow` · `Keras`
+`NumPy` · `pandas` · `Matplotlib` · `scikit-learn` · `PyTorch` · `TensorFlow` · `Keras` · `HuggingFace`
 
 ## Developer Tools
 `Git` · `GitHub` · `VS Code` · `Jupyter` · `Google Colab` · `Postman` · `Power BI` · `Vercel` · `Streamlit`
