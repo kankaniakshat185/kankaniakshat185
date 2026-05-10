@@ -18,9 +18,6 @@ Currently focused on:
 ## Languages
 `Python` · `C` · `C++` · `TypeScript` · `Go`
 
-## Frontend
-`Next.js` · `Tailwind CSS`
-
 ## Backend & Systems
 `FastAPI` · RESTful APIs · Asynchronous Processing · Modular Backend Design
 
