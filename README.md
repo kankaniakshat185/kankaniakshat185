@@ -19,7 +19,7 @@ Currently focused on:
 `Python` · `C` · `C++` · `Go`
 
 ## Backend & Systems
-`FastAPI` · RESTful APIs · Asynchronous Processing · Modular Backend Design
+`FastAPI` · `Redis` · `Celery` · `Docker` · `Kubernetes` · `Kafka` · RESTful APIs · Asynchronous Processing · Modular Backend Design
 
 ## Databases
 `MySQL` · `PostgreSQL` · Relational Schema Design · Query Optimization
