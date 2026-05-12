@@ -1,8 +1,8 @@
 # About Me
 
-Computer Science undergraduate specializing in Artificial Intelligence, with a strong interest in building scalable software systems and production-oriented AI applications.
+Computer Science undergraduate specializing in Artificial Intelligence, with a strong interest in building robust, scalable software systems and production-oriented AI applications.
 
-My experience spans full-stack development, backend engineering, and applied machine learning, with a focus on designing reliable systems that combine clean software architecture with practical ML workflows. I enjoy working on projects involving NLP, data-intensive applications, retrieval systems, and AI-powered analytics platforms.
+My experience spans backend engineering, pplied machine learning, with a focus on designing reliable systems that combine clean software architecture with practical ML workflows. I enjoy working on projects involving NLP, data-intensive applications, retrieval systems, and AI-powered analytics platforms.
 
 Currently focused on:
 - Scaling NLP systems using transformer-based architectures and LLM ensembles
