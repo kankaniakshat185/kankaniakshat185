@@ -25,6 +25,7 @@ Currently focused on:
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![REST API](https://img.shields.io/badge/RESTful%20APIs-02569B?style=for-the-badge)
 ![Async Processing](https://img.shields.io/badge/Asynchronous%20Processing-000000?style=for-the-badge)
 ![Modular Backend](https://img.shields.io/badge/Modular%20Backend%20Design-000000?style=for-the-badge)
