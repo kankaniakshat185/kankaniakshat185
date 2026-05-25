@@ -54,7 +54,7 @@ Currently focused on:
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
-### CORE CS
+### Core CS
 
 ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-000000?style=for-the-badge)
 ![Computer Networks](https://img.shields.io/badge/Computer%20Networks-000000?style=for-the-badge)
