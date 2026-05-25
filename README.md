@@ -53,6 +53,15 @@ Currently focused on:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+
+### CORE CS
+
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems-000000?style=for-the-badge)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-000000?style=for-the-badge)
+![Object Oriented Programming](https://img.shields.io/badge/Object%20Oriented%20Programming-000000?style=for-the-badge)
+![Database Management Systems](https://img.shields.io/badge/Database%20Management%20Systems-000000?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System%20Design-000000?style=for-the-badge)
+
 ---
 
 # Engineering Interests
