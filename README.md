@@ -62,7 +62,8 @@ Currently focused on:
 # Engineering Interests
 
 - Designing scalable backend architectures with clean separation of concerns  
-- Building efficient data ingestion, validation, and transformation pipelines  
+- Exploring cloud computing and devops with modern technologies including AWS (Basics), Docker, and Kubernetes 
+- Building efficient data ingestion, validation, and transformation pipelines, covering data's entire lifecycle  
 - Developing ML-powered applications for real-world use cases  
 - Optimizing systems for performance, maintainability, and reliability  
 - Bridging software engineering with applied AI/ML systems  
