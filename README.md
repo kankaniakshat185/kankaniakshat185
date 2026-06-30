@@ -4,12 +4,6 @@ Computer Science undergraduate specializing in Artificial Intelligence, interest
 
 My projects span NLP, retrieval systems, backend infrastructure, and AI-powered developer tools. Alongside building projects, I'm actively learning distributed systems, system design, and the engineering principles behind scalable and reliable software.
 
----
-
-### Areas of Interest
-
-Backend Engineering • Distributed Systems • Applied Machine Learning • NLP • System Design
-
 ### Currently focused on
 
 * Building backend systems that serve and orchestrate machine learning workloads.
