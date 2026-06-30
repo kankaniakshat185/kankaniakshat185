@@ -4,12 +4,18 @@ Computer Science undergraduate specializing in Artificial Intelligence, interest
 
 My projects span NLP, retrieval systems, backend infrastructure, and AI-powered developer tools. Alongside building projects, I'm actively learning distributed systems, system design, and the engineering principles behind scalable and reliable software.
 
+---
+
+### Areas of Interest
+
+Backend Engineering • Distributed Systems • Applied Machine Learning • NLP • System Design
+
 ### Currently focused on
 
 * Building backend systems that serve and orchestrate machine learning workloads.
 * Developing NLP and retrieval-based systems using transformer models and LLMs
 * Improving model evaluation, reliability, and observability in ML workflows
-* Studying distributed systems, system design, and implementing scalable backend systems to better understand their design trade-offs.
+* Studying distributed systems and system design by implementing scalable backend systems and exploring their design trade-offs
 
 ---
 
@@ -62,12 +68,12 @@ My projects span NLP, retrieval systems, backend infrastructure, and AI-powered 
 
 # Engineering Interests
 
-- Building backend systems that are simple, reliable, and easy to maintain
-- Designing APIs and services for AI-powered applications
+- Building backend systems with an emphasis on simplicity, reliability, and maintainability
+- Designing APIs and infrastructure for AI-powered applications
 - Exploring distributed systems and scalable software architecture
-- Applying machine learning to solve practical engineering problems
-- Learning through building projects and studying real-world system design
+- Applying machine learning to practical software engineering problems
+- Learning through hands-on projects and real-world system design
 
 ---
 
-Always learning, Always building.
+Always learning. Always building.
