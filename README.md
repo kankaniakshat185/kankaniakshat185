@@ -2,15 +2,15 @@
 
 Computer Science undergraduate specializing in Artificial Intelligence, interested in backend engineering, applied machine learning, and distributed systems. I enjoy building software that combines clean system design with practical ML applications.
 
-My projects span NLP, retrieval systems, backend infrastructure, and AI-powered developer tools. Alongside building projects, I'm actively learning distributed systems, system design, and the engineering principles behind scalable and reliable software.
+My projects span ML, distributed systems, systems programming, backend infrastructure, and AI-powered developer tools. Alongside building them, I'm deepening my understanding of system design and the engineering principles behind scalable, reliable software.
 
 ### Currently focused on
 
-* Building backend systems that serve and orchestrate machine learning workloads.
-* Developing NLP and retrieval-based systems using transformer models and LLMs
-* Improving model evaluation, reliability, and observability in ML workflows
-* Studying distributed systems and system design by implementing scalable backend systems and exploring their design trade-offs
-
+* Building robust, scalable backend systems for SaaS applications and developer tools.
+* Developing machine learning, NLP, retrieval, and LLM-powered systems with a focus on practical applications.
+* Studying machine learning system design by improving model evaluation, reliability, observability, and deployment workflows through hands-on projects.
+* Exploring distributed systems and system design by implementing scalable architectures and understanding real-world design trade-offs.
+* Continuously strengthening problem-solving through Data Structures & Algorithms in C++, while deepening my understanding of core computer science fundamentals, including Operating Systems, Computer Networks, Object-Oriented Programming, concurrency, and multithreading.
 ---
 
 # Tech Stack
@@ -28,6 +28,7 @@ My projects span NLP, retrieval systems, backend infrastructure, and AI-powered 
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 
 
 ### Databases
@@ -48,6 +49,9 @@ My projects span NLP, retrieval systems, backend infrastructure, and AI-powered 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### Core CS
 
@@ -59,15 +63,14 @@ My projects span NLP, retrieval systems, backend infrastructure, and AI-powered 
 ![System Design](https://img.shields.io/badge/System%20Design-000000?style=for-the-badge)
 
 ---
-
 # Engineering Interests
 
-- Building backend systems with an emphasis on simplicity, reliability, and maintainability
-- Designing APIs and infrastructure for AI-powered applications
-- Exploring distributed systems and scalable software architecture
-- Applying machine learning to practical software engineering problems
-- Learning through hands-on projects and real-world system design
-
+- Building software that is simple, reliable, and easy to maintain
+- Understanding the trade-offs behind architectural and design decisions
+- Writing clean, well-tested, and observable systems
+- Exploring performance, scalability, and developer experience
+- Learning by building production-style projects from scratch
+  
 ---
 
 Always learning. Always building.
