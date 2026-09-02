@@ -1,16 +1,18 @@
 # About Me
 
-Computer Science undergraduate specializing in Artificial Intelligence, interested in backend engineering, applied machine learning, and distributed systems. I enjoy building software that combines clean system design with practical ML applications.
+Computer Science undergraduate specializing in Artificial Intelligence, with a strong interest in **systems programming, performance engineering, backend infrastructure, and applied machine learning**. I enjoy building software that combines clean system design with **low-level optimization, efficient data structures, concurrency, and performance-critical execution**.
 
-My projects span ML, distributed systems, systems programming, backend infrastructure, and AI-powered developer tools. Alongside building them, I'm deepening my understanding of system design and the engineering principles behind scalable, reliable software.
+My projects span ML, distributed systems, systems programming, backend infrastructure, and AI-powered developer tools. Alongside building them, I'm deepening my understanding of **how software performs at the systems level — from memory and data structures to concurrency, latency, throughput, and resource utilization** — and the engineering trade-offs behind scalable, reliable software.
 
 ### Currently focused on
 
 * Building robust, scalable backend systems for SaaS applications and developer tools.
+* **Performance-oriented systems programming in C++, with a focus on low-latency execution, efficient data structures and algorithms, concurrency, memory efficiency, fault tolerance, and performance optimization.**
 * Developing machine learning, NLP, retrieval, and LLM-powered systems with a focus on practical applications.
 * Studying machine learning system design by improving model evaluation, reliability, observability, and deployment workflows through hands-on projects.
-* Exploring distributed systems and system design by implementing scalable architectures and understanding real-world design trade-offs.
+* Exploring distributed systems and system design by implementing scalable architectures and understanding real-world trade-offs between **latency, throughput, reliability, and resource efficiency**.
 * Continuously strengthening problem-solving through Data Structures & Algorithms in C++, while deepening my understanding of core computer science fundamentals, including Operating Systems, Computer Networks, Object-Oriented Programming, concurrency, and multithreading.
+
 ---
 
 # Tech Stack
