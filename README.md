@@ -72,6 +72,7 @@ My projects span ML, distributed systems, systems programming, backend infrastru
 # Engineering Interests
 
 - Building software that is simple, reliable, and easy to maintain
+- Performance optimization
 - Understanding the trade-offs behind architectural and design decisions
 - Writing clean, well-tested, and observable systems
 - Exploring performance, scalability, and developer experience
