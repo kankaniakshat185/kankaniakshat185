@@ -1,6 +1,6 @@
 # About Me
 
-Computer Science undergraduate specializing in Artificial Intelligence, with a strong interest in systems programming, performance engineering, backend infrastructure, and applied machine learning. I build software where clean system design meets low-level optimization — efficient data structures, concurrency, and performance-critical execution.
+Computer Science undergraduate specializing in Artificial Intelligence, with a strong interest in systems programming, performance engineering, devops & cloud computing, backend infrastructure, and applied machine learning. I build software where clean system design meets low-level optimization — efficient data structures, concurrency, and performance-critical execution.
 
 My projects span ML, distributed systems, systems programming, backend infrastructure, and AI-powered developer tools. Alongside building them, I'm deepening my understanding of how software performs at the systems level — memory, data structures, concurrency, latency, throughput, and resource utilization — and the engineering trade-offs behind scalable, reliable software.
 
