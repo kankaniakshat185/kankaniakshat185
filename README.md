@@ -30,7 +30,7 @@ My projects span ML, distributed systems, systems programming, backend infrastru
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_(EC2%20%7C%20S3)-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![AWS](https://img.shields.io/badge/AWS_-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 
@@ -38,16 +38,6 @@ My projects span ML, distributed systems, systems programming, backend infrastru
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Machine Learning & Data
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-5E5E5E?style=for-the-badge&logoColor=white)
 
 ### Developer Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -55,6 +45,7 @@ My projects span ML, distributed systems, systems programming, backend infrastru
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![GoogleTest](https://img.shields.io/badge/GoogleTest-4285F4?style=for-the-badge&logo=googletest&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
@@ -66,7 +57,24 @@ My projects span ML, distributed systems, systems programming, backend infrastru
 ![Computer Networks](https://img.shields.io/badge/Computer%20Networks-000000?style=for-the-badge)
 ![Object Oriented Programming](https://img.shields.io/badge/Object%20Oriented%20Programming-000000?style=for-the-badge)
 ![Database Management Systems](https://img.shields.io/badge/Database%20Management%20Systems-000000?style=for-the-badge)
+
+### Systems
+
 ![System Design](https://img.shields.io/badge/System%20Design-000000?style=for-the-badge)
+![Concurrency & Multithreading](https://img.shields.io/badge/Concurrency%20%26%20Multithreading-000000?style=for-the-badge)
+![Performance Optimization](https://img.shields.io/badge/Performance%20Optimization-000000?style=for-the-badge)
+![Software Testing](https://img.shields.io/badge/Software%20Testing-000000?style=for-the-badge)
+
+### Machine Learning & Data
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-5E5E5E?style=for-the-badge&logoColor=white)
 
 ---
 # Engineering Interests
