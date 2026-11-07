@@ -26,41 +26,49 @@ My projects span ML, distributed systems, systems programming, backend infrastru
 ### Backend & Systems
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 
 ### Developer Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![GoogleTest](https://img.shields.io/badge/GoogleTest-4285F4?style=for-the-badge&logo=googletest&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+
+### DevOps & CI/CD
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### Core CS
 
 ![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-000000?style=for-the-badge)
 ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-000000?style=for-the-badge)
-![Computer Networks](https://img.shields.io/badge/Computer%20Networks-000000?style=for-the-badge)
 ![Object Oriented Programming](https://img.shields.io/badge/Object%20Oriented%20Programming-000000?style=for-the-badge)
+![DevOps & Cloud Computing](https://img.shields.io/badge/DevOps_%26_Cloud_Computing-000000?style=for-the-badge)
 ![Database Management Systems](https://img.shields.io/badge/Database%20Management%20Systems-000000?style=for-the-badge)
+![Computer Architecture](https://img.shields.io/badge/Computer_Architecture-000000?style=for-the-badge)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-000000?style=for-the-badge)
 
 ### Systems
 
 ![System Design](https://img.shields.io/badge/System%20Design-000000?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-000000?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-000000?style=for-the-badge)
 ![Concurrency & Multithreading](https://img.shields.io/badge/Concurrency%20%26%20Multithreading-000000?style=for-the-badge)
 ![Performance Optimization](https://img.shields.io/badge/Performance%20Optimization-000000?style=for-the-badge)
 ![Software Testing](https://img.shields.io/badge/Software%20Testing-000000?style=for-the-badge)
