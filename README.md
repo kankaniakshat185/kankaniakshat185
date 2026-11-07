@@ -1,17 +1,18 @@
 # About Me
 
-Computer Science undergraduate specializing in Artificial Intelligence, with a strong interest in systems programming, performance engineering, devops & cloud computing, backend infrastructure, and applied machine learning. I build software where clean system design meets low-level optimization — efficient data structures, concurrency, and performance-critical execution.
+Computer Science undergraduate specializing in Artificial Intelligence, focused on systems programming, distributed systems, and performance engineering. I build software where clean design meets low-level optimization, and I measure the result.
 
-My projects span ML, distributed systems, systems programming, backend infrastructure, and AI-powered developer tools. Alongside building them, I'm deepening my understanding of how software performs at the systems level — memory, data structures, concurrency, latency, throughput, and resource utilization — and the engineering trade-offs behind scalable, reliable software.
+I like the parts of engineering where a system's behavior has to be explained and not just observed: why a write path is slow, what happens to a cluster when a node pauses, whether a "faster" change is actually correct. I profile before I optimize, test against a reference before I trust a benchmark, and write down design decisions so a project stays easy to pick up after I've moved on.
 
 ### Currently focused on
 
-* Building robust, scalable backend systems for SaaS applications and developer tools
-* Performance-oriented systems programming in C++ — low-latency execution, efficient data structures/algorithms, concurrency, memory efficiency, and fault tolerance
-* Developing ML, NLP, retrieval, and LLM-powered systems with practical applications in mind
-* Studying ML system design through model evaluation, reliability, observability, and deployment workflows
-* Exploring distributed systems by implementing scalable architectures and reasoning about latency/throughput/reliability trade-offs
-* Strengthening DSA in C++ while deepening OS, Computer Networks, OOP, and concurrency fundamentals.
+* Distributed systems: fault-tolerant scheduling, recovery, and the latency/throughput/reliability trade-offs between them
+* Performance-oriented C++: cache-aware data structures, concurrency, and profiling with hardware performance counters
+* Backend infrastructure that is reliable and observable: containers, CI/CD, monitoring
+* Strengthening DSA in C++ while deepening OS, Computer Networks, OOP, and concurrency fundamentals
+* Building ML, NLP, retrieval, and LLM-powered systems with practical applications in mind
+
+
 
 ---
 
@@ -85,14 +86,15 @@ My projects span ML, distributed systems, systems programming, backend infrastru
 ![MCP](https://img.shields.io/badge/MCP-5E5E5E?style=for-the-badge&logoColor=white)
 
 ---
-# Engineering Interests
+### Engineering Interests
 
-- Building software that is simple, reliable, and easy to maintain
-- Performance optimization
-- Understanding the trade-offs behind architectural and design decisions
-- Writing clean, well-tested, and observable systems
-- Exploring performance, scalability, and developer experience
-- Learning by building production-style projects from scratch
+* Building software that is simple, reliable, and easy to maintain
+* Performance optimization — profiling and benchmarking before optimizing
+* Understanding the trade-offs behind architectural and design decisions
+* Proving correctness — differential testing, fault injection, and CI on every push
+* Writing clean, well-documented, and observable systems
+* Exploring performance, scalability, and developer experience
+* Learning by building production-style projects from scratch
   
 ---
 
