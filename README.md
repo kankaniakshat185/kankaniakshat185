@@ -1,8 +1,8 @@
 # About Me
 
-Computer Science undergraduate specializing in Artificial Intelligence, focused on systems programming, distributed systems, and performance engineering. I build software where clean design meets low-level optimization, and I measure the result.
+Computer Science undergraduate specializing in Artificial Intelligence, focused on systems programming, distributed systems, backend engineering, and applied AI. I build software where clean design meets low-level optimization, and I measure the result.
 
-I like the parts of engineering where a system's behavior has to be explained and not just observed: why a write path is slow, what happens to a cluster when a node pauses, whether a "faster" change is actually correct. I profile before I optimize, test against a reference before I trust a benchmark, and write down design decisions so a project stays easy to pick up after I've moved on.
+I like the parts of engineering where a system’s behavior has to be explained and not just observed: why a write path is slow, what happens to a cluster when a node pauses, whether a “faster” change is actually correct. I profile before I optimize, test against a reference before I trust a benchmark, and write down design decisions so a project stays easy to pick up after I’ve moved on. The same approach carries into my LLM systems: retrieval, orchestration across providers, and evaluating output against real data.
 
 ### Currently focused on
 
