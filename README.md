@@ -9,9 +9,9 @@ I like the parts of engineering where a system’s behavior has to be explained 
 * Distributed systems: fault-tolerant scheduling, recovery, and the latency/throughput/reliability trade-offs between them
 * Performance-oriented C++: cache-aware data structures, concurrency, and profiling with hardware performance counters
 * Backend infrastructure that is reliable and observable: containers, CI/CD, monitoring
-* Strengthening DSA in C++ while deepening OS, Computer Networks, OOP, and concurrency fundamentals
-* Building ML, NLP, retrieval, and LLM-powered systems with practical applications in mind
-
+* Core CS depth: operating systems, computer architecture, computer networks, DBMS, OOP, and concurrency
+* Applied AI: retrieval, LLM agents and orchestration, NLP, and data-driven research tooling, evaluated against real data
+* Algorithms and competitive programming: problem solving under time pressure across LeetCode, Codeforces, and CodeChef
 
 
 ---
